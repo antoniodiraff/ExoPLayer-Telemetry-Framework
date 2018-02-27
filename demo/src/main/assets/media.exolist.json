@@ -1,0 +1,17 @@
+[
+  {
+    "name": "HLS",
+    "samples": [{
+        "name": "TG COM 24 Sky Go - skycdn - ",
+        "uri": "http://hls.live.go.skycdn.it/12362/tg24go/index.m3u8"
+      }, {
+        "name": "TG COM 24 Sky Go - akamaihd - ",
+        "uri": "http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8"
+
+      }, {
+        "name": "Download & Play EX 600",
+        "uri": "http://test.hlsvod.oscdn.skycdn.it/temp_gaetano/dp_telemetry_lib/600/600.m3u8"
+      }
+    ]
+  }
+]

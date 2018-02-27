@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Tue Feb 27 15:15:25 CET 2018
+1.base=/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/assets/noExtensions/debug
+2.path=media.exolist.json
+0.baseType=DIRECTORY
+2.base=/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/assets/noExtensions/debug
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/transforms/dexMerger/noExtensions/debug/0
+2.baseType=DIRECTORY
+1.path=playeractivity

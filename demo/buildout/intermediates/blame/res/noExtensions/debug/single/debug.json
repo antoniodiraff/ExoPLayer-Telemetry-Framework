@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-anydpi-v21_exo_controls_previous.xml.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-anydpi-v21/exo_controls_previous.xml"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/layout_list_divider.xml.flat",
+        "source": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/src/main/res/layout/list_divider.xml"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-xxhdpi-v4_exo_controls_repeat_all.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-xxhdpi-v4/exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-ldpi-v4_exo_controls_previous.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-ldpi-v4/exo_controls_previous.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-anydpi-v21_exo_edit_mode_logo.xml.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-anydpi-v21/exo_edit_mode_logo.xml"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-mdpi-v4_exo_controls_repeat_off.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-mdpi-v4/exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-xhdpi_ic_banner.png.flat",
+        "source": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/src/main/res/drawable-xhdpi/ic_banner.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/layout_track_selection_dialog.xml.flat",
+        "source": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/src/main/res/layout/track_selection_dialog.xml"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-mdpi-v4_exo_controls_repeat_one.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-mdpi-v4/exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-hdpi-v4_exo_controls_previous.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-hdpi-v4/exo_controls_previous.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-mdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-mdpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-ldpi-v4_exo_controls_next.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-ldpi-v4/exo_controls_next.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-xhdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-xhdpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-xhdpi-v4_exo_controls_repeat_all.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-xhdpi-v4/exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-hdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-hdpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-xhdpi-v4_exo_controls_previous.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-xhdpi-v4/exo_controls_previous.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-hdpi-v4_exo_controls_repeat_all.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-hdpi-v4/exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-anydpi-v21_exo_controls_repeat_off.xml.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-anydpi-v21/exo_controls_repeat_off.xml"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-hdpi-v4_exo_controls_play.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-hdpi-v4/exo_controls_play.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-ldpi-v4_exo_controls_repeat_all.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-ldpi-v4/exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-anydpi-v21_exo_controls_fastforward.xml.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-anydpi-v21/exo_controls_fastforward.xml"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-hdpi-v4_exo_controls_pause.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-hdpi-v4/exo_controls_pause.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-mdpi-v4_exo_controls_play.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-mdpi-v4/exo_controls_play.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-ldpi-v4_exo_controls_pause.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-ldpi-v4/exo_controls_pause.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-xhdpi-v4_exo_controls_repeat_off.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-xhdpi-v4/exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-xxhdpi-v4_exo_controls_play.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-xxhdpi-v4/exo_controls_play.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-hdpi-v4_exo_controls_fastforward.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-hdpi-v4/exo_controls_fastforward.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-xhdpi-v4_exo_controls_repeat_one.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-xhdpi-v4/exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-anydpi-v21_exo_controls_pause.xml.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-anydpi-v21/exo_controls_pause.xml"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-ldpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-ldpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-xxhdpi-v4_exo_controls_rewind.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-xxhdpi-v4/exo_controls_rewind.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-anydpi-v21_exo_controls_repeat_all.xml.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-anydpi-v21/exo_controls_repeat_all.xml"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-xhdpi-v4_exo_controls_rewind.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-xhdpi-v4/exo_controls_rewind.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-ldpi-v4_exo_controls_fastforward.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-ldpi-v4/exo_controls_fastforward.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-mdpi-v4_exo_controls_previous.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-mdpi-v4/exo_controls_previous.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-ldpi-v4_exo_controls_play.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-ldpi-v4/exo_controls_play.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-mdpi-v4_exo_controls_repeat_all.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-mdpi-v4/exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/layout_exo_playback_control_view.xml.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/layout/exo_playback_control_view.xml"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-xhdpi-v4_exo_controls_play.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-xhdpi-v4/exo_controls_play.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-ldpi-v4_exo_controls_rewind.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-ldpi-v4/exo_controls_rewind.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-xxhdpi-v4_exo_controls_repeat_one.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-xxhdpi-v4/exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-mdpi-v4_exo_controls_fastforward.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-mdpi-v4/exo_controls_fastforward.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-xhdpi-v4_exo_controls_next.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-xhdpi-v4/exo_controls_next.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-anydpi-v21_exo_controls_play.xml.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-anydpi-v21/exo_controls_play.xml"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-mdpi-v4_exo_controls_pause.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-mdpi-v4/exo_controls_pause.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-xhdpi-v4_exo_controls_pause.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-xhdpi-v4/exo_controls_pause.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-hdpi-v4_exo_controls_rewind.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-hdpi-v4/exo_controls_rewind.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-xhdpi-v4_exo_controls_fastforward.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-xhdpi-v4/exo_controls_fastforward.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/layout_exo_simple_player_view.xml.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/layout/exo_simple_player_view.xml"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-anydpi-v21_exo_controls_rewind.xml.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-anydpi-v21/exo_controls_rewind.xml"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-hdpi-v4_exo_controls_repeat_one.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-hdpi-v4/exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-hdpi-v4_exo_controls_next.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-hdpi-v4/exo_controls_next.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-xxxhdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-xxxhdpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-xxhdpi-v4_exo_controls_previous.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-xxhdpi-v4/exo_controls_previous.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-xxhdpi-v4_exo_controls_repeat_off.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-xxhdpi-v4/exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-ldpi-v4_exo_controls_repeat_off.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-ldpi-v4/exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-ldpi-v4_exo_controls_repeat_one.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-ldpi-v4/exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-mdpi-v4_exo_controls_rewind.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-mdpi-v4/exo_controls_rewind.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-mdpi-v4_exo_controls_next.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-mdpi-v4/exo_controls_next.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-anydpi-v21_exo_controls_next.xml.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-anydpi-v21/exo_controls_next.xml"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-hdpi-v4_exo_controls_repeat_off.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-hdpi-v4/exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/layout_player_activity.xml.flat",
+        "source": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/src/main/res/layout/player_activity.xml"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-xxhdpi-v4_exo_controls_pause.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-xxhdpi-v4/exo_controls_pause.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-xxhdpi-v4_exo_controls_fastforward.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-xxhdpi-v4/exo_controls_fastforward.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/layout_sample_chooser_activity.xml.flat",
+        "source": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/src/main/res/layout/sample_chooser_activity.xml"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-xxhdpi-v4_exo_controls_next.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-xxhdpi-v4/exo_controls_next.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-xxhdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-xxhdpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/res/merged/noExtensions/debug/drawable-anydpi-v21_exo_controls_repeat_one.xml.flat",
+        "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/drawable-anydpi-v21/exo_controls_repeat_one.xml"
+    }
+]

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/demo/buildout/intermediates/incremental/mergeNoExtensionsDebugResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/antoniodiraffaele/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.5.4.aar/26b9a385eafecfdf90e7ed85df740f7d/res/values-v11/values-v11.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "10",
+                        "endOffsets": "329"
+                    }
+                }
+            ]
+        }
+    ]
+}

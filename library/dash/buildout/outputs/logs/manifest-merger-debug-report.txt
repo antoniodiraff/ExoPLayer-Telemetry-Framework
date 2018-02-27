@@ -1,0 +1,23 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/library/dash/src/main/AndroidManifest.xml:17:1-64
+INJECTED from /Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/library/dash/src/main/AndroidManifest.xml:17:1-64
+INJECTED from /Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/library/dash/src/main/AndroidManifest.xml:17:1-64
+	package
+		ADDED from /Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/library/dash/src/main/AndroidManifest.xml:17:11-62
+		INJECTED from /Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/library/dash/src/main/AndroidManifest.xml
+		INJECTED from /Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/library/dash/src/main/AndroidManifest.xml
+uses-sdk
+INJECTED from /Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/library/dash/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/library/dash/src/main/AndroidManifest.xml
+INJECTED from /Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/library/dash/src/main/AndroidManifest.xml
+INJECTED from /Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/library/dash/src/main/AndroidManifest.xml
+INJECTED from /Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/library/dash/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/library/dash/src/main/AndroidManifest.xml
+		ADDED from /Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/library/dash/src/main/AndroidManifest.xml
+		INJECTED from /Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/library/dash/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/library/dash/src/main/AndroidManifest.xml
+		ADDED from /Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/library/dash/src/main/AndroidManifest.xml
+		INJECTED from /Users/antoniodiraffaele/Desktop/Exo Player Telemetry Framework/ExoPlayer_Library_0.1_V4/library/dash/src/main/AndroidManifest.xml
